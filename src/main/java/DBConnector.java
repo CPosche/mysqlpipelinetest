@@ -3,7 +3,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBConnector {
-    private static String URL = "jdbc:mysql://localhost:3306/startcode_test?serverTimezone=Europe/Copenhagen";
+    private static String URL = "jdbc:mysql://164.92.175.138:3306/startcode_test?serverTimezone=Europe/Copenhagen";
     private static String USER = "dev";
     private static String PW = "3r!DE32*/fDe";
 
